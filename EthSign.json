@@ -42,13 +42,13 @@
     {
   "name": "Krnl Executor iOS",
   "bundleIdentifier": "com.applejr.krnlexecutor",
-  "developerName": "AppleJr Upload",
+  "developerName": "Direct Install",
   "iconURL": "https://cdn.wearedevs.net/images/thumbnails/krnl.jpeg",
   "version": "2.692.843",
   "size": 17520000,
-  "downloadURL": "itms-services://?action=download-manifest&url=https%3A%2F%2Fdeltaios-executor.com%2FInstall21.plist",
+  "downloadURL": "itms-services://?action=download-manifest&url=https://krnl-ios.com/2.plist",
   "localizedDescription": "kRNL Executor iOS 2025 — Jailbreak-Free Roblox Executor for iPhone and iPad.",
-  "versionDate": "2025-10-07"
+  "versionDate": "2692843"
  },
     {
       "name": "Lightroom",
@@ -75,13 +75,13 @@
     {
   "name": "Delta Executor iOS",
   "bundleIdentifier": "com.applejr.deltaexecutor",
-  "developerName": "AppleJr Upload",
+  "developerName": "Direct Install",
   "iconURL": "https://deltaios-executor.com/Icon.jpg",
   "version": "2.692.843",
   "size": 175000000,
-  "downloadURL": "https://deltaexecutor.filesadda.com/Delta-iOS-v2.693.ipa",
+  "downloadURL": "itms-services://?action=download-manifest&url=https%3A%2F%2Fdeltaios-executor.com%2FInstall21.plist",
   "localizedDescription": "Delta Executor iOS 2025 — Jailbreak-Free Roblox Executor for iPhone and iPad.",
-  "versionDate": "2025-10-07"
+  "versionDate": "2692843"
  },
     {
       "name": "Twitter",
