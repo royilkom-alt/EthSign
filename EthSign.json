@@ -40,16 +40,16 @@
       "versionDate": "2025-07-21"
     },
     {
-      "name": "Delta Executor iOS",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "AppleJr Upload",
-      "iconURL": "https://deltaios-executor.com/Icon.jpg",
-      "version": "2.692.843",
-      "size": 163976665,
-      "downloadURL": "https://deltaexecutor.filesadda.com/Delta-iOS-v2.693.ipa",
-      "localizedDescription": "",
-      "versionDate": "2025-10-07"
-    },
+  "name": "Delta Executor iOS",
+  "bundleIdentifier": "com.applejr.deltaexecutor",
+  "developerName": "AppleJr Upload",
+  "iconURL": "https://deltaios-executor.com/Icon.jpg",
+  "version": "2.692.843",
+  "size": 175000000,
+  "downloadURL": "https://deltaexecutor.filesadda.com/Delta-iOS-v2.693.ipa",
+  "localizedDescription": "Delta Executor iOS 2025 — Jailbreak-Free Roblox Executor for iPhone and iPad.",
+  "versionDate": "2025-10-07"
+ },
     {
       "name": "Twitter",
       "bundleIdentifier": "com.atebits.Tweetie2",
