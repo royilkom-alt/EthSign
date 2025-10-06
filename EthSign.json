@@ -40,6 +40,17 @@
       "versionDate": "2025-07-21"
     },
     {
+      "name": "Delta Executor iOS",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "AppleJr Upload",
+      "iconURL": "https://deltaios-executor.com/Icon.jpg",
+      "version": "2.692.843",
+      "size": 163976665,
+      "downloadURL": "https://repo.ethsign.fyi/5a7b7643-0d40-47b4-bd40-6e2aa66d0fb9/Classic_BHTwitter+_11.9_Jacks_Apps_Green.ipa",
+      "localizedDescription": "",
+      "versionDate": "2025-10-07"
+    },
+    {
       "name": "Twitter",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "SultanMods",
