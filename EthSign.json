@@ -65,7 +65,7 @@
   "name": "Pokémon Go (iSpoofer)",
   "bundleIdentifier": "com.applejr.ispoofer",
   "developerName": "Direct Install",
-  "iconURL": "https://static.wikia.nocookie.net/pokemongo/images/3/3a/AppIcon_Season_14_World_of_Wonders.png/revision/latest?cb=20240305213249",
+  "iconURL": "https://static.wikia.nocookie.net/pokemongo/images/3/3a/AppIcon_Season_14_World_of_Wonders.png",
   "version": "91.0.1",
   "size": 17520000,
   "downloadURL": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/brawlmodlol/Signed-IPA/refs/heads/main/Ispoofer.plist",
@@ -114,7 +114,7 @@
   "size": 175000000,
   "downloadURL": "itms-services://?action=download-manifest&url=https%3A%2F%2Fdeltaios-executor.com%2FInstall21.plist",
   "localizedDescription": "Delta Executor iOS 2025 — Jailbreak-Free Roblox Executor for iPhone and iPad.",
-  "versionDate": "2692-10-07"
+  "versionDate": "2692-11-07"
  },
     {
       "name": "Twitter",
