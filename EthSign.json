@@ -57,8 +57,30 @@
   "iconURL": "https://cdn.wearedevs.net/images/thumbnails/krnl.jpeg",
   "version": "2.692.843",
   "size": 17520000,
-  "downloadURL": "itms-services://?action=download-manifest&url=https://krnl-ios.com/2.plist",
+  "downloadURL": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/brawlmodlol/Signed-IPA/refs/heads/main/krnl.plist",
   "localizedDescription": "kRNL Executor iOS 2025 — Jailbreak-Free Roblox Executor for iPhone and iPad.",
+  "versionDate": "2692-10-07"
+ },
+    {
+  "name": "Pokémon Go (iSpoofer)",
+  "bundleIdentifier": "com.applejr.ispoofer",
+  "developerName": "Direct Install",
+  "iconURL": "https://static.wikia.nocookie.net/pokemongo/images/3/3a/AppIcon_Season_14_World_of_Wonders.png/revision/latest?cb=20240305213249",
+  "version": "91.0.1",
+  "size": 17520000,
+  "downloadURL": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/brawlmodlol/Signed-IPA/refs/heads/main/Ispoofer.plist",
+  "localizedDescription": "Spoofer— Jailbreak-Free Roblox Executor for iPhone and iPad.",
+  "versionDate": "2692-10-07"
+ },
+     {
+  "name": "PUBG Mobile Beta iOS",
+  "bundleIdentifier": "com.applejr.PUBG",
+  "developerName": "Direct Install",
+  "iconURL": "https://sc.filehippo.net/images/t_app-icon-l/p/f16a3fe4-6774-4ca4-a0f9-df9dfb352797/579437750/pubg-mobile-logo",
+  "version": "4.0.",
+  "size": 17520000,
+  "downloadURL": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/brawlmodlol/Signed-IPA/refs/heads/main/pubgbetaany.plist",
+  "localizedDescription": "PUBG MOBILE BETA— Jailbreak-Free Roblox Executor for iPhone and iPad.",
   "versionDate": "2692-10-07"
  },
     {
