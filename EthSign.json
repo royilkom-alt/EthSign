@@ -65,7 +65,7 @@
   "name": "Pokémon Go (iSpoofer)",
   "bundleIdentifier": "com.applejr.ispoofer",
   "developerName": "Direct Install",
-  "iconURL": "https://static.wikia.nocookie.net/pokemongo/images/3/3a/AppIcon_Season_14_World_of_Wonders.png",
+  "iconURL": "https://ispoofer.app/assets/imgs/logo.png",
   "version": "91.0.1",
   "size": 17520000,
   "downloadURL": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/brawlmodlol/Signed-IPA/refs/heads/main/Ispoofer.plist",
