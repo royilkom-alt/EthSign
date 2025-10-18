@@ -108,13 +108,13 @@
   "versionDate": "2692-10-07"
  },
     {
-  "name": "Pokémon Go (iSpoofer)",
-  "bundleIdentifier": "com.applejr.ispoofer",
+  "name": "TrollStoreX",
+  "bundleIdentifier": "com.applejr.Trollstore",
   "developerName": "Direct Install",
-  "iconURL": "https://ispoofer.app/assets/imgs/logo.png",
+  "iconURL": "https://idontgiveaf.neocities.org/trollstore_index/icon.png",
   "version": "91.0.1",
   "size": 17520000,
-  "downloadURL": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/brawlmodlol/Signed-IPA/refs/heads/main/Ispoofer.plist",
+  "downloadURL": "https://is.gd/AHz7hx",
   "localizedDescription": "Spoofer— Jailbreak-Free Roblox Executor for iPhone and iPad.",
   "versionDate": "2692-10-07"
  },
