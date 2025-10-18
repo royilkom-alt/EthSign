@@ -118,17 +118,6 @@
   "localizedDescription": "Spoofer— Jailbreak-Free Roblox Executor for iPhone and iPad.",
   "versionDate": "2692-10-07"
  },
-     {
-  "name": "PUBG Mobile Beta iOS",
-  "bundleIdentifier": "com.applejr.PUBG",
-  "developerName": "Direct Install",
-  "iconURL": "https://sc.filehippo.net/images/t_app-icon-l/p/f16a3fe4-6774-4ca4-a0f9-df9dfb352797/579437750/pubg-mobile-logo",
-  "version": "4.0.",
-  "size": 17520000,
-  "downloadURL": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/brawlmodlol/Signed-IPA/refs/heads/main/pubgbetaany.plist",
-  "localizedDescription": "PUBG MOBILE BETA— Jailbreak-Free Roblox Executor for iPhone and iPad.",
-  "versionDate": "2692-10-07"
- },
     {
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobilephone",
